@@ -1,13 +1,4 @@
----
-name: "[ Feature ] - Feature request"
-about: "✨ Feature Template "
-title: "[ Feature ] - "
-labels: feature ✨
-assignees: ''
-
----
-
-## 🛠️ 계획된 개발 기능
+🛠️ 계획된 개발 기능
 [//]: # (어떠한 기능 / 화면을 만드는지 적습니다.)
 
 
