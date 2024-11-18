@@ -4,7 +4,8 @@ about: Issue template
 title: ''
 labels: ''
 assignees: ''
-------
+---
+---
 name: "[ Feature ] - Feature request"
 about: "✨ Feature Template "
 title: "[ Feature ] - "
